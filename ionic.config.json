@@ -1,0 +1,7 @@
+{
+  "name": "katalogmainan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
